@@ -1,1 +1,40 @@
 /* Write your CSS here */
+.bg-container {
+  min-height: 100vh;
+  background-color: #ffc2a0;
+  padding: 20px;
+}
+.todos-constainer {
+  padding: 20px;
+  background-color: #ffffff;
+  margin: 10px;
+  border-radius: 9px;
+}
+.main-heading {
+  color: #ff8542;
+  font-family: 'Roboto';
+  text-align: center;
+  font-size: 35px;
+}
+.form-container {
+  text-align: center;
+}
+.add-input {
+  width: 60%;
+  padding: 15px;
+  border-radius: 8px;
+  border: 1px solid gray;
+  outline: none;
+  cursor: pointer;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+.add-btn {
+  margin-left: 20px;
+  border: none;
+  color: #ffffff;
+  padding: 15px;
+  border-radius: 8px;
+  background-color: #5e5bf3;
+  font-size: 20px;
+}
